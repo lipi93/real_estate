@@ -24,7 +24,7 @@
   <!-- Daterange picker -->
   <link rel="stylesheet" href="{{ asset('backend/plugins/daterangepicker/daterangepicker.css')}}">
   <!-- summernote -->
-  <link rel="stylesheet" href="{{ asset('backend/plugins/summernote/summernote-bs4.min.css')}}">
+  <link rel="stylesheet" href="{{ asset('backend/plugins/summernote/summernote-bs4.min.css')}}">  
     @stack('style-alt')
 </head>
 <body class="hold-transition sidebar-mini layout-fixed">
@@ -81,7 +81,7 @@
               <img src="dist/img/user1-128x128.jpg" alt="User Avatar" class="img-size-50 mr-3 img-circle">
               <div class="media-body">
                 <h3 class="dropdown-item-title">
-                  Brad Diesel
+                  Brad Dieselllll
                   <span class="float-right text-sm text-danger"><i class="fas fa-star"></i></span>
                 </h3>
                 <p class="text-sm">Call me whenever you can...</p>

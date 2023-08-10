@@ -61,7 +61,7 @@
                                     </span>
                                     <div class="description__feature-container">
                                         <h6>Bedrooms</h6>
-                                        <span>{{$property->bed}} room</span>
+                                        <span>{{$property->bed}} rooms</span>
                                     </div>
                                 </div>
                             </div>
